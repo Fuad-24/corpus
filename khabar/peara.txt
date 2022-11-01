@@ -5,26 +5,25 @@
 
 <hamnosys_nonmanual>
 
+<hnm_mouthgesture tag="D02"/>	
 </hamnosys_nonmanual>
 
 <hamnosys_manual>
 
-<hamflathand/>
+<hamfinger2345/>
 <hamthumboutmod/>
-<hamfingerstraightmod/>
+<hamfingerbendmod/>
 <hambetween/>
-<hamflathand/>
-<hamthumboutmod/>
+<hamfinger2345/>
+<hamthumbopenmod/>
 <hamextfingerul/>
-<hampalmd/>
-<hamnose/>
+<hampalml/>
+<hamlips/>
 <hamseqbegin/>
-<hamtouch/>
-<hamfingermidjoint/>
-<hamindexfinger/>
+<hamclose/>
+<hamfingerpad/>
+<hamringfinger/>
 <hamseqend/>
-<hammoveo/>
-<hamarcu/>
 </hamnosys_manual>
 
 </hns_sign>

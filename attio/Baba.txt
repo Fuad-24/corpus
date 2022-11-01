@@ -12,7 +12,8 @@
 <hampinch12/>
 <hamextfingerul/>
 <hampalml/>
-<hamchin/>
+
+<hamchin/>  
 <hamreplace/>
 <hamfinger2/>
 <hamthumboutmod/>

@@ -26,11 +26,35 @@
 <hammovei/>
 <hamsmallmod/>
 <hamfast/>
-<hammoveuo/>
-<hammoveuo/>
+</hamnosys_manual>
+
+</hns_sign>
+
+
+<hns_sign gloss="">
+
+<hamnosys_nonmanual>
+
+</hamnosys_nonmanual>
+
+<hamnosys_manual>
+
+<hamfinger2/>
+<hamfingerhookmod/>
+<hamthumbacrossmod/>
+<hamextfingeru/>
+<hampalml/>
+<hamforehead/>
+<hamclose/>
 <hammoved/>
 </hamnosys_manual>
 
 </hns_sign>
+
+
+
+
+
+
 
 </sigml>

@@ -9,27 +9,24 @@
 
 <hamnosys_manual>
 
-<hamflathand/>
+<hamfist/>
 <hamthumboutmod/>
-<hamfingerstraightmod/>
-<hamextfingeru/>
+<hamextfingerl/>
 <hampalml/>
-<hamshoulders/>
-<hamlrat/>
+<hamlips/>
 <hamseqbegin/>
-<hamtouch/>
-<hamthumb/>
+<hamclose/>
 <hamfingernail/>
+<hamthumb/>
 <hamseqend/>
-<hamparbegin/>
 <hamreplace/>
-<hamextfingeru/>
 <hampalmd/>
-<hammoveor/>
-<hammover/>
-<hamsmallmod/>
-<hamarcu/>
-<hamparend/>
+<hamfast/>
+<hamreplace/>
+<hampalml/>
+<hamreplace/>
+<hampalmd/>
+<hamfast/>
 </hamnosys_manual>
 
 </hns_sign>
