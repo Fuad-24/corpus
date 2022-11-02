@@ -23,6 +23,18 @@
 <hampalmu/>
 <hamshoulders/>
 <hamlrat/>
+<hamreplace/>
+<hamextfingeror/>
+<hambetween/>
+<hamextfingeru/>
+<hamreplace/>
+<hamextfingerir/>
+<hambetween/>
+<hamextfingeru/>
+<hamreplace/>
+<hamextfingeror/>
+<hambetween/>
+<hamextfingeru/>
 </hamnosys_manual>
 
 </hns_sign>

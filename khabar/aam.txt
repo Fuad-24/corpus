@@ -10,19 +10,22 @@
 <hamnosys_manual>
 
 <hamfinger2345/>
-<hamthumbopenmod/>
+<hamthumboutmod/>
 <hamfingerbendmod/>
 <hambetween/>
 <hamfinger2345/>
-<hamthumboutmod/>
-<hampinky/>
-<hamdoublebent/>
-<hamextfingerir/>
-<hambetween/>
-<hamextfingeru/>
+<hamthumbopenmod/>
+<hamextfingerur/>
 <hampalmu/>
-<hamshoulders/>
+<hamcheek/>
 <hamlrat/>
+<hamseqbegin/>
+<hamclose/>
+<hamhandback/>
+<hamseqend/>
+<hamreplace/>
+<hamfist/>
+<hamthumbacrossmod/>
 </hamnosys_manual>
 
 </hns_sign>
