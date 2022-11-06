@@ -9,6 +9,39 @@
 
 <hamnosys_manual>
 
+<hamfist/>
+<hamthumbopenmod/>
+<hamextfingeru/>
+<hampalml/>
+<hamnose/>
+<hamlrat/>
+<hamseqbegin/>
+<hamtouch/>
+<hamfingertip/>
+<hamthumb/>
+<hamseqend/>
+<hamparbegin/>
+<hammovedo/>
+<hamsmallmod/>
+<hamarcu/>
+<hamreplace/>
+<hamextfingerul/>
+<hampalmdr/>
+<hamparend/>
+</hamnosys_manual>
+
+</hns_sign>
+
+
+
+<hns_sign gloss="">
+
+<hamnosys_nonmanual>
+
+</hamnosys_nonmanual>
+
+<hamnosys_manual>
+
 <hamsymmlr/>
 <hamflathand/>
 <hamthumboutmod/>
@@ -70,5 +103,7 @@
 </hamnosys_manual>
 
 </hns_sign>
+
+
 
 </sigml>
